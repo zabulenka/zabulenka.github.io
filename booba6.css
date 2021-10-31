@@ -1,0 +1,33 @@
+body {
+  background-image: url('gwiazdy.png');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-color: rgb(0, 0, 0);
+}
+a {
+	text-decoration: none;
+	color: white;
+	font-family: Candara;
+	margin-top: 2px;
+	}	
+h2 {
+	font-family: Candara;
+	font-size: 40px;
+	text-align: center;
+	color: rgb(230, 247, 255);
+}
+#tekst {
+	font-family: Candara;
+	font-weight: lighter;
+	color: silver;
+	margin-left: 3%;
+	margin-right: 3%;
+	text-align: justify;
+	font-size: 25px;
+}
+.smrut {
+	width: 94%;
+	margin-left: 3%;
+	margin-right: 3%;
+}

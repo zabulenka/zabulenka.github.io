@@ -1,0 +1,40 @@
+body {
+  background-image: url('wielka.png');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-color: rgb(255, 204, 153);
+
+}
+a {
+	text-decoration: none;
+	color: rgb(26, 9, 0);
+	font-family: Candara;
+	font-weight: bold;
+	margin-top: 2px;
+	
+}
+h1 {
+	color: rgb(77, 38, 0);
+	font-family: Candara;
+	font-weight: bold;
+	font-size: 50px;
+	margin-top: 10px;
+}
+#tekst {
+	color: rgb(77, 38, 0);
+	font-family: Candara;
+	font-size: 28px;
+	margin-left: 5%;
+	margin-right: 5%;
+	text-align: justify;
+}
+	
+.Jowisz{
+	float: right;
+}
+
+.plama {
+	width: 100%;
+}
+	

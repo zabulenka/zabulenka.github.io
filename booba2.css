@@ -1,0 +1,81 @@
+body {
+  background-image: url('serce.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+
+
+}
+
+h1 {
+	text-align: center;
+	color: rgb(255, 2, 126);
+	font-family: Candara;
+	font-weight: bold;
+	font-size: 50px;
+	
+}
+
+a {
+	text-decoration: none;
+	color: rgba(255, 2, 126);
+	font-family: Candara;
+	font-weight: lighter;
+	margin-top: 2px;
+}
+
+#tekst {
+	text-align: justify;
+	margin-left: 10%;
+	margin-right: 10%;
+	font-size: 25px;
+	font-family: Candara;
+	color: rgb(255, 2, 126);
+	
+}
+
+table {
+    margin: auto;
+	width: 80%;
+	border-style: hidden;
+	border-color: rgba(255, 2, 126, 0.5);
+	filter: alpha(opacity=50);
+	font-family: Candara;
+	text-align: center;
+	background-color: rgba(255, 216, 231, 0.5);
+	filter: alpha(opacity=50);
+}
+h2 {
+	font-size: 35px;
+	font-weight: bold;
+	color: rgb(255, 2, 126);
+}
+
+h3 {
+	font-size: 30px;
+	color: rgb(255, 2, 126);
+	font-weight: bold;
+}
+#naukowcy {
+	font-size: 35px;
+	font-family: Candara;
+	font-weight: bold;
+	color: rgb(255, 2, 126);
+}
+#kod {
+	background: url("kod.png") top left no-repeat; 
+	float: right;
+	width: 61px;
+	height: 37px;
+	margin-bottom: 10px;
+	transition: image;
+	
+}
+#kod:hover {
+	background: url("kod1.png") top left no-repeat; 
+	float: right;
+	width: 61px;
+	height: 37px;
+	margin-bottom: 10px;
+}
+	

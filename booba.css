@@ -1,0 +1,21 @@
+body {
+  background-image: url('2819305.jpeg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+h2 {
+    color: silver;
+	margin-top: 30px;
+	font-family: Candara;
+	font-weight: lighter;
+	text-align: center;
+	font-size: 50px;
+}
+h6 {
+	margin-bottom: 1px;
+	color: silver;
+	font-family: Candara;
+	font-weight: lighter;
+	font-size: 25px;
+}
